@@ -1,0 +1,462 @@
+{
+ "0": {
+  "was": "Cocacola",
+  "name": "Cocacola",
+  "age": 26,
+  "pron": "They",
+  "bio": "From Spain"
+ },
+ "1": {
+  "was": "Dylan",
+  "name": "Dylan",
+  "age": 32,
+  "pron": "He",
+  "bio": "Board game café regular. Great at explaining the rules."
+ },
+ "2": {
+  "was": "Sophie",
+  "name": "Sophie",
+  "age": 27,
+  "pron": "She",
+  "bio": "Shooting neighborhood alleys on film."
+ },
+ "3": {
+  "was": "Jules",
+  "name": "Jules",
+  "age": 34,
+  "pron": "She",
+  "bio": "Treasurer of a running crew. Easygoing pace."
+ },
+ "4": {
+  "was": "Luna",
+  "name": "Luna",
+  "age": 26,
+  "pron": "He/They",
+  "bio": "Bakes bread at dawn, sleeps all day."
+ },
+ "5": {
+  "was": "Mason",
+  "name": "Mason",
+  "age": 28,
+  "pron": "He",
+  "bio": "Goes to exhibitions, keeps the reviews short."
+ },
+ "6": {
+  "was": "Zoe",
+  "name": "Zoe",
+  "age": 33,
+  "pron": "She/They",
+  "bio": "Started with one plant. My room is now a jungle."
+ },
+ "7": {
+  "was": "Theo",
+  "name": "Theo",
+  "age": 34,
+  "pron": "She",
+  "bio": "The quiet listener at the jazz bar."
+ },
+ "8": {
+  "was": "Sasha",
+  "name": "Sasha",
+  "age": 22,
+  "pron": "She",
+  "bio": "Free as a bird"
+ },
+ "9": {
+  "was": "Owen",
+  "name": "Owen",
+  "age": 32,
+  "pron": "He",
+  "bio": "Please call me by my name. Love night walks."
+ },
+ "10": {
+  "was": "Hi",
+  "name": "Hi",
+  "age": 24,
+  "pron": "She",
+  "bio": "Looking for nothing"
+ },
+ "11": {
+  "was": "June",
+  "name": "June",
+  "age": 35,
+  "pron": "No pronouns",
+  "bio": "Got better at cooking by copying videos."
+ },
+ "12": {
+  "was": "Sam",
+  "name": "Sam",
+  "age": 23,
+  "pron": "They",
+  "bio": "Preparing a pop-up for my handmade candles."
+ },
+ "13": {
+  "was": "Haven",
+  "name": "Haven",
+  "age": 31,
+  "pron": "No pronouns",
+  "bio": "Rock festival ticketing warrior."
+ },
+ "14": {
+  "was": "Stone",
+  "name": "Stone",
+  "age": 37,
+  "pron": "He",
+  "bio": "Swim after work, nap on weekends."
+ },
+ "15": {
+  "was": "Ian",
+  "name": "Ian",
+  "age": 25,
+  "pron": "They",
+  "bio": "My Korean is still rough, but I'd love to make friends."
+ },
+ "16": {
+  "was": "Bo",
+  "name": "Bo",
+  "age": 33,
+  "pron": "He",
+  "bio": "Knitting while watching documentaries."
+ },
+ "17": {
+  "was": "Wesley",
+  "name": "Wesley",
+  "age": 24,
+  "pron": "She",
+  "bio": "Runs an account to log my café tours."
+ },
+ "18": {
+  "was": "Daisy",
+  "name": "Daisy",
+  "age": 30,
+  "pron": "She",
+  "bio": "Booking jam rooms is my hobby."
+ },
+ "19": {
+  "was": "Dragon",
+  "name": "Dragon",
+  "age": 33,
+  "pron": "She",
+  "bio": "Likes planning trips more than taking them."
+ },
+ "20": {
+  "was": "Seth",
+  "name": "Seth",
+  "age": 28,
+  "pron": "He",
+  "bio": "On a 10,000-steps-a-day challenge."
+ },
+ "21": {
+  "was": "Ollie",
+  "name": "Ollie",
+  "age": 32,
+  "pron": "No pronouns",
+  "bio": "Slow talker, good letter writer."
+ },
+ "22": {
+  "was": "Gia",
+  "name": "Gia",
+  "age": 30,
+  "pron": "She/They",
+  "bio": "Night bike rides, 3 a.m. ramen."
+ },
+ "23": {
+  "was": "Jay",
+  "name": "Jay",
+  "age": 26,
+  "pron": "She/They",
+  "bio": "Three years into my local indie cinema membership."
+ },
+ "24": {
+  "was": "Jonah",
+  "name": "Jonah",
+  "age": 36,
+  "pron": "He",
+  "bio": "Collecting tea instead of liquor."
+ },
+ "25": {
+  "was": "Noa",
+  "name": "Noa",
+  "age": 30,
+  "pron": "He",
+  "bio": "Learning ballet. My joints are filing complaints."
+ },
+ "26": {
+  "was": "Hello",
+  "name": "Hello",
+  "age": 29,
+  "pron": "He",
+  "bio": "Only my camping gear keeps growing."
+ },
+ "27": {
+  "was": "Melon",
+  "name": "Melon",
+  "age": 36,
+  "pron": "He",
+  "bio": "Collector of old LPs."
+ },
+ "28": {
+  "was": "Quinn",
+  "name": "Quinn",
+  "age": 30,
+  "pron": "She",
+  "bio": "More walks, fewer words."
+ },
+ "29": {
+  "was": "Dawn",
+  "name": "Dawn",
+  "age": 25,
+  "pron": "They",
+  "bio": "Designing a life with no overtime."
+ },
+ "30": {
+  "was": "Dara",
+  "name": "Dara",
+  "age": 25,
+  "pron": "She/They",
+  "bio": "Gimbap after a dawn swim is the highlight of my day."
+ },
+ "31": {
+  "was": "Charlie",
+  "name": "Charlie",
+  "age": 23,
+  "pron": "She",
+  "bio": "Making posters in Photoshop for fun."
+ },
+ "32": {
+  "was": "Meh",
+  "name": "Meh",
+  "age": 34,
+  "pron": "He",
+  "bio": "The ghost haunting my library's study room."
+ },
+ "33": {
+  "was": "Harlow",
+  "name": "Harlow",
+  "age": 30,
+  "pron": "She",
+  "bio": "Living with two cats."
+ },
+ "34": {
+  "was": "Karl",
+  "name": "Karl",
+  "age": 36,
+  "pron": "He",
+  "bio": "Wanna catch beer?"
+ },
+ "35": {
+  "was": "Baba",
+  "name": "Baba",
+  "age": 28,
+  "pron": "She/They",
+  "bio": "I like fun people."
+ },
+ "36": {
+  "was": "Simon",
+  "name": "Simon",
+  "age": 25,
+  "pron": "He",
+  "bio": "Touring the country to watch football live."
+ },
+ "37": {
+  "was": "Willow",
+  "name": "Willow",
+  "age": 33,
+  "pron": "No pronouns",
+  "bio": "Eight years of handwritten diaries."
+ },
+ "38": {
+  "was": "Ethan",
+  "name": "Ethan",
+  "age": 31,
+  "pron": "He",
+  "bio": "Codes until I'm boiling ramen at 3 a.m."
+ },
+ "39": {
+  "was": "Jamie",
+  "name": "Jamie",
+  "age": 22,
+  "pron": "They",
+  "bio": "Making indie-published zines."
+ },
+ "40": {
+  "was": "Hank",
+  "name": "Hank",
+  "age": 37,
+  "pron": "He",
+  "bio": "Collecting cocktail recipe notebooks."
+ },
+ "41": {
+  "was": "Dean",
+  "name": "Dean",
+  "age": 24,
+  "pron": "He",
+  "bio": "Took surf lessons, mostly drank the ocean."
+ },
+ "42": {
+  "was": "Eli",
+  "name": "Eli",
+  "age": 31,
+  "pron": "He/They",
+  "bio": "Volunteering on weekends, overtime on weekdays."
+ },
+ "43": {
+  "was": "Tay",
+  "name": "Tay",
+  "age": 22,
+  "pron": "He",
+  "bio": "Binge-watching dramas professionally."
+ },
+ "44": {
+  "was": "Leon",
+  "name": "Leon",
+  "age": 29,
+  "pron": "He",
+  "bio": "Will eat your failed bakes too."
+ },
+ "45": {
+  "was": "Jonas",
+  "name": "Jonas",
+  "age": 25,
+  "pron": "He",
+  "bio": "Youngest in the weekend basketball group."
+ },
+ "46": {
+  "was": "Wren",
+  "name": "Wren",
+  "age": 23,
+  "pron": "He/She/They",
+  "bio": "One drawing diary page a day."
+ },
+ "47": {
+  "was": "Aiden",
+  "name": "Aiden",
+  "age": 29,
+  "pron": "She",
+  "bio": "Repairing old cameras as a hobby."
+ },
+ "48": {
+  "was": "Chase",
+  "name": "Chase",
+  "age": 27,
+  "pron": "He",
+  "bio": "On a pilgrimage through neighborhood bakeries."
+ },
+ "49": {
+  "was": "Alex",
+  "name": "Alex",
+  "age": 27,
+  "pron": "He",
+  "bio": "Yoga machine"
+ },
+ "50": {
+  "was": "Drew",
+  "name": "Drew",
+  "age": 35,
+  "pron": "She",
+  "bio": "Goes fishing at dawn."
+ },
+ "51": {
+  "was": "Bonky",
+  "name": "Bonky",
+  "age": 24,
+  "pron": "She",
+  "bio": "Watching gaming tournaments is my hobby."
+ },
+ "52": {
+  "was": "Summer",
+  "name": "Summer",
+  "age": 27,
+  "pron": "He",
+  "bio": "Lives by the water every summer."
+ },
+ "53": {
+  "was": "Star",
+  "name": "Star",
+  "age": 31,
+  "pron": "He",
+  "bio": "Keeps star-chart app notifications on."
+ },
+ "54": {
+  "was": "Brian",
+  "name": "Brian",
+  "age": 34,
+  "pron": "No pronouns",
+  "bio": "Slow walks and short notes"
+ },
+ "55": {
+  "was": "Xan",
+  "name": "Xan",
+  "age": 29,
+  "pron": "They",
+  "bio": "Share me your playlist"
+ },
+ "56": {
+  "was": "Joe",
+  "name": "Joe",
+  "age": 37,
+  "pron": "He",
+  "bio": "Taking a weekend woodworking class."
+ },
+ "57": {
+  "was": "Willa",
+  "name": "Willa",
+  "age": 29,
+  "pron": "She",
+  "bio": "Collecting cassettes instead of LPs."
+ },
+ "58": {
+  "was": "April",
+  "name": "April",
+  "age": 26,
+  "pron": "They",
+  "bio": "Mala tang spice level 4."
+ },
+ "59": {
+  "was": "Chance",
+  "name": "Chance",
+  "age": 32,
+  "pron": "He",
+  "bio": "Collecting finisher medals from races."
+ },
+ "60": {
+  "was": "Champ",
+  "name": "Champ",
+  "age": 27,
+  "pron": "He",
+  "bio": "Professional browser of small gift shops."
+ },
+ "61": {
+  "was": "Haden",
+  "name": "Haden",
+  "age": 28,
+  "pron": "He/They",
+  "bio": "A little Korean, a little American."
+ },
+ "62": {
+  "was": "Ezra",
+  "name": "Ezra",
+  "age": 35,
+  "pron": "They",
+  "bio": "Embroidering while listening to podcasts."
+ },
+ "63": {
+  "was": "May",
+  "name": "May",
+  "age": 26,
+  "pron": "They",
+  "bio": "Flower market tours every spring."
+ },
+ "64": {
+  "was": "Henry",
+  "name": "Henry",
+  "age": 28,
+  "pron": "He",
+  "bio": "Just getting into roasting coffee beans."
+ },
+ "lines": [
+  "Hi {myname}! Thanks for sending me a like first 😊 I was curious about your profile too.",
+  "Wow, you picked me! I'm really into {interest} lately. What are you into these days, {myname}?",
+  "Hi {myname} :) I was just about to send you a like, so this worked out nicely. Nice to meet you!"
+ ]
+}
