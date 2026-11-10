@@ -1,0 +1,334 @@
+{
+ "0": {
+  "was": "하늘",
+  "name": "Cocacola",
+  "bio": "From Spain",
+  "age": 26
+ },
+ "1": {
+  "was": "도윤",
+  "age": 32
+ },
+ "2": {
+  "was": "서아",
+  "age": 27
+ },
+ "3": {
+  "was": "지후",
+  "age": 34,
+  "gender": "She/her"
+ },
+ "4": {
+  "was": "유나",
+  "age": 26,
+  "gender": "They/them"
+ },
+ "5": {
+  "was": "민재",
+  "age": 28,
+  "gender": "He/him"
+ },
+ "6": {
+  "was": "소이",
+  "age": 33
+ },
+ "7": {
+  "was": "태오",
+  "age": 34,
+  "gender": "She/her"
+ },
+ "8": {
+  "was": "나린",
+  "name": "Sasha",
+  "bio": "Free as a bird",
+  "age": 22
+ },
+ "9": {
+  "was": "시우",
+  "age": 32,
+  "gender": "He/him"
+ },
+ "10": {
+  "was": "예린",
+  "name": "Hi",
+  "bio": "Looking for nothing",
+  "age": 24,
+  "gender": "He/him"
+ },
+ "11": {
+  "was": "준",
+  "age": 35,
+  "gender": "They/them"
+ },
+ "12": {
+  "was": "담",
+  "age": 23
+ },
+ "13": {
+  "was": "해온",
+  "age": 31,
+  "gender": "They/them"
+ },
+ "14": {
+  "was": "채원",
+  "name": "돌",
+  "age": 37,
+  "gender": "He/him"
+ },
+ "15": {
+  "was": "이안",
+  "name": "Ian",
+  "bio": "My Korean isn't great yet, but I'd love to make friends",
+  "age": 25
+ },
+ "16": {
+  "was": "보람",
+  "age": 33,
+  "gender": "He/him"
+ },
+ "17": {
+  "was": "우진",
+  "age": 24,
+  "gender": "She/her"
+ },
+ "18": {
+  "was": "다솜",
+  "age": 30,
+  "gender": "She/her"
+ },
+ "19": {
+  "was": "리오",
+  "name": "룡",
+  "age": 33,
+  "gender": "She/her"
+ },
+ "20": {
+  "was": "세하",
+  "age": 28
+ },
+ "21": {
+  "was": "온",
+  "age": 32
+ },
+ "22": {
+  "was": "가온",
+  "age": 30,
+  "gender": "They/them"
+ },
+ "23": {
+  "was": "재이",
+  "age": 26,
+  "gender": "They/them"
+ },
+ "24": {
+  "was": "단비",
+  "name": "종연",
+  "age": 36,
+  "gender": "He/him"
+ },
+ "25": {
+  "was": "로아",
+  "age": 30,
+  "gender": "He/him"
+ },
+ "26": {
+  "was": "형준",
+  "name": "안녕",
+  "age": 29
+ },
+ "27": {
+  "was": "아린",
+  "name": "멜론",
+  "age": 36,
+  "gender": "He/him"
+ },
+ "28": {
+  "was": "윤",
+  "age": 30,
+  "gender": "She/her"
+ },
+ "29": {
+  "was": "새벽",
+  "age": 25,
+  "gender": "They/them"
+ },
+ "30": {
+  "was": "도하",
+  "age": 25,
+  "gender": "They/them"
+ },
+ "31": {
+  "was": "채민",
+  "age": 23
+ },
+ "32": {
+  "was": "율",
+  "name": "그냥",
+  "age": 34,
+  "gender": "He/him"
+ },
+ "33": {
+  "was": "하린",
+  "age": 30
+ },
+ "34": {
+  "was": "건우",
+  "name": "Karl",
+  "bio": "Wanna catch beer?",
+  "age": 36
+ },
+ "35": {
+  "was": "미소",
+  "name": "바바",
+  "bio": "I like fun people",
+  "age": 28
+ },
+ "36": {
+  "was": "시원",
+  "age": 25
+ },
+ "37": {
+  "was": "나무",
+  "age": 33
+ },
+ "38": {
+  "was": "예준",
+  "age": 31
+ },
+ "39": {
+  "was": "지안",
+  "age": 22
+ },
+ "40": {
+  "was": "수빈",
+  "name": "혁",
+  "age": 37,
+  "gender": "He/him"
+ },
+ "41": {
+  "was": "도경",
+  "age": 24
+ },
+ "42": {
+  "was": "은우",
+  "age": 31,
+  "gender": "They/them"
+ },
+ "43": {
+  "was": "태이",
+  "age": 22,
+  "gender": "He/him"
+ },
+ "44": {
+  "was": "라온",
+  "age": 29
+ },
+ "45": {
+  "was": "서진",
+  "name": "지호",
+  "age": 25
+ },
+ "46": {
+  "was": "다인",
+  "name": "원",
+  "age": 23,
+  "gender": "They/them"
+ },
+ "47": {
+  "was": "이든",
+  "age": 29,
+  "gender": "She/her"
+ },
+ "48": {
+  "was": "채우",
+  "age": 27
+ },
+ "49": {
+  "was": "소율",
+  "name": "Alex",
+  "bio": "Yoga machine",
+  "age": 27,
+  "gender": "He/him"
+ },
+ "50": {
+  "was": "도현",
+  "age": 35,
+  "gender": "She/her"
+ },
+ "51": {
+  "was": "하준",
+  "name": "봉키",
+  "age": 24,
+  "gender": "She/her"
+ },
+ "52": {
+  "was": "여름",
+  "age": 27,
+  "gender": "He/him"
+ },
+ "53": {
+  "was": "별",
+  "age": 31,
+  "gender": "He/him"
+ },
+ "54": {
+  "was": "겸",
+  "name": "Brian",
+  "bio": "Slow walks and short notes",
+  "age": 34
+ },
+ "55": {
+  "was": "하은",
+  "name": "Xan",
+  "bio": "Share me your playlist",
+  "age": 29,
+  "gender": "They/them"
+ },
+ "56": {
+  "was": "정우",
+  "age": 37
+ },
+ "57": {
+  "was": "연우",
+  "age": 29,
+  "gender": "She/her"
+ },
+ "58": {
+  "was": "수아",
+  "name": "새봄",
+  "age": 26,
+  "gender": "They/them"
+ },
+ "59": {
+  "was": "찬",
+  "age": 32
+ },
+ "60": {
+  "was": "모아",
+  "name": "짱",
+  "age": 27,
+  "gender": "He/him"
+ },
+ "61": {
+  "was": "해든",
+  "name": "Haden",
+  "bio": "Korean American",
+  "age": 28,
+  "gender": "They/them"
+ },
+ "62": {
+  "was": "나은",
+  "name": "은조",
+  "age": 35,
+  "gender": "They/them"
+ },
+ "63": {
+  "was": "봄",
+  "age": 26
+ },
+ "64": {
+  "was": "지온",
+  "name": "형섭",
+  "age": 28
+ }
+}
